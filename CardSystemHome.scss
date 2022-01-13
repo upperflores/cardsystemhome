@@ -1,0 +1,38 @@
+.sistema-card2 {
+    height: 100%;
+   width: 150px !important;
+  text-align: center;
+  text-decoration: none;
+  color: #000000;
+
+  }
+
+  .iconsistem > svg {
+    width:64px;
+    margin-top: 30px;
+    }
+  .iconsistemhome > svg {
+    width:50px
+  }
+  .small-card {
+    display: flex;
+    width: 300px !important;
+    .sistema-card__img,
+    .sistema-card__descricao {
+      height: 80px !important;
+      svg {
+        svg {
+          height: 100%;
+        }
+      }
+    }
+
+    .sistema-card__img {
+        width: 40%;
+    }
+
+    .sistema-card2__descricao {
+      padding-top: -14px;
+      margin-top: 20px;
+  }
+  }
